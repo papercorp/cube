@@ -1,0 +1,18 @@
+{
+  "name": "green",
+  "description": "ceci n'est pas un cube",
+  "image": "ipfs://bafkreifa5ib6na7q5stsgucwcb3ximt5hxs6resgafexi3uq56fukjvc6y",
+  "attributes": [
+    {
+      "trait_type": "color",
+      "value": "green"
+    },
+    {
+      "trait_type": "text",
+      "value": "^_^"
+    }
+  ],
+  "mime": {
+    "bafkreifa5ib6na7q5stsgucwcb3ximt5hxs6resgafexi3uq56fukjvc6y": "image/svg+xml"
+  }
+}
