@@ -202,7 +202,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     description: meta.description,
     owner,
     rinkeby: (token.domain.chainId === 4),
-    maiinnet: (token.domain.chainId === 1),
+    mainnet: (token.domain.chainId === 1),
     address: token.domain.verifyingContract,
     tokenId: token.body.id,
     table: render(meta)
