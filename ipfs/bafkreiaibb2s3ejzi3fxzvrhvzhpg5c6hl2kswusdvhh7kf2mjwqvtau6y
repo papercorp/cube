@@ -1,7 +1,7 @@
 {
   "name": "yellow",
   "description": "ceci n'est pas un cube",
-  "image": "ipfs://bafkreiapu4lc7qdyr7bhcs5izvoxsx4swunzhskxdefrznwswhdolbz4j4",
+  "image": "ipfs://bafkreif2ffyuk4zyffrgjs6sxpf3zceojknvuczrez7ewnjqjcv3v2awtm",
   "attributes": [
     {
       "trait_type": "color",
@@ -11,8 +11,5 @@
       "trait_type": "text",
       "value": "^_^"
     }
-  ],
-  "mime": {
-    "bafkreiapu4lc7qdyr7bhcs5izvoxsx4swunzhskxdefrznwswhdolbz4j4": "image/svg+xml"
-  }
+  ]
 }

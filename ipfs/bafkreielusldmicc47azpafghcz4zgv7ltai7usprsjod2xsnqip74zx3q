@@ -1,7 +1,7 @@
 {
   "name": "indigo",
   "description": "ceci n'est pas un cube",
-  "image": "ipfs://bafkreicf6wbl5cxdozdhudsssfwftzjjez7nfukxvrjshis2fv732xvw2i",
+  "image": "ipfs://bafkreibkq6hjvkp46s2yd6cvcxs3avnnfqolgk7w5zjxidskdjfxqiukqu",
   "attributes": [
     {
       "trait_type": "color",
@@ -11,8 +11,5 @@
       "trait_type": "text",
       "value": "^_^"
     }
-  ],
-  "mime": {
-    "bafkreicf6wbl5cxdozdhudsssfwftzjjez7nfukxvrjshis2fv732xvw2i": "image/svg+xml"
-  }
+  ]
 }

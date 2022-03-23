@@ -1,7 +1,7 @@
 {
   "name": "black",
   "description": "ceci n'est pas un cube",
-  "image": "ipfs://bafkreiasuy4hnvcha6hwqrc5p6ncyzoxoigs5gh63ybfmsdbyrbpm4evde",
+  "image": "ipfs://bafkreibgbn5dua7zep4nyyzbijnlnkhai5jsu25oif2jyz3bi7vwt6u4ce",
   "attributes": [
     {
       "trait_type": "color",
@@ -11,8 +11,5 @@
       "trait_type": "text",
       "value": "^_^"
     }
-  ],
-  "mime": {
-    "bafkreiasuy4hnvcha6hwqrc5p6ncyzoxoigs5gh63ybfmsdbyrbpm4evde": "image/svg+xml"
-  }
+  ]
 }
